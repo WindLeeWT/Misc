@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T16:32:43.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="CVERUE5V01Pfs0S9gjbR" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-10T01:19:41.890Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ITnqmoFgMcAp4JwSBgFy" version="20.8.18" type="github">
   <diagram name="第 1 页" id="y0Go7ssdU0CtU0V1f10J">
-    <mxGraphModel dx="1435" dy="973" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1675" dy="973" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -732,6 +732,11 @@
         </mxCell>
         <mxCell id="sr5XxnYCMST1pJ13uV9J-335" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=gap;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;fontSize=14;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="sr5XxnYCMST1pJ13uV9J-310" target="sr5XxnYCMST1pJ13uV9J-305" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="33UWOGZrNQxxwOCix2CN-93" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=1;fontSize=13;fontColor=#FF0000;" edge="1" parent="1" source="sr5XxnYCMST1pJ13uV9J-310">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2957.54541015625" y="3315" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sr5XxnYCMST1pJ13uV9J-310" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.apache.org/logos/res/iceberg/iceberg.png;imageBorder=#000000;dashed=1;dashPattern=8 8;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="2759" y="3300.19" width="126.72" height="29" as="geometry" />
@@ -3083,6 +3088,12 @@
         </mxCell>
         <mxCell id="33UWOGZrNQxxwOCix2CN-89" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 13px;&quot;&gt;Repartition&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2255" y="757" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33UWOGZrNQxxwOCix2CN-90" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.apache.org/logos/res/spark/spark.png;" vertex="1" parent="1">
+          <mxGeometry x="2952.69" y="3317.04" width="92" height="47.77" as="geometry" />
+        </mxCell>
+        <mxCell id="33UWOGZrNQxxwOCix2CN-91" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://prestodb.io/static/presto-og.png;" vertex="1" parent="1">
+          <mxGeometry x="2952.69" y="3264.58" width="96.92" height="44.73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
